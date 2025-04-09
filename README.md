@@ -1,1 +1,1 @@
-# Comp590Assignment7
+# Team Members: Ben Sears, Kishan Patel, Bruna Ricciardi
